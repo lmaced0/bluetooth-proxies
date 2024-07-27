@@ -15,8 +15,7 @@ esp32:
   framework:
     type: esp-idf
 
-wifi:
-  ap:
+ethernet:
 
 api:
 logger:
